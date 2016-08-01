@@ -1,5 +1,6 @@
 /*
-	Classe guitarra - Uma guitarra é composta por: Número de série, Fabricante, Modelo, tipo, Madeira-Traseira, Madeira-Topo, Preço.
+	Classe guitarra - Uma guitarra é composta por: Número de série, Fabricante, Modelo, 
+	tipo, Madeira-Traseira, Madeira-Topo, Preço.
 */
 public class Guitar {
    
